@@ -10,11 +10,9 @@ Treinamento Hands-on na plataforma Databricks com foco nas funcionalidades de Ge
 
 | # | Tópicos | Duração |
 | -- | -- | -- |
-| 01 | Introdução a plataforma Databricks e ao Genie AI/BI + Dashboards                   | 30 min |
-| 02 | Laboratório 01 - Ingestão de tabelas para uso nos laboratórios                     | 20 min |
-| 03 | Laboratório 02 - Criação de um Painel (Dashboard AI/BI)                            | 30 min |
-| 04 | Laboratório 03 - Criação do Genie Spaces                                           | 30 min |
-| 05 | Perguntas e Respostas                                                              | 10 min |
+| 01 | Laboratório 01 - Ingestão de tabelas para uso nos laboratórios                     | 20 min |
+| 02 | Laboratório 02 - Criação de um Painel (Dashboard AI/BI)                            | 20 min |
+| 03 | Laboratório 03 - Criação do Genie Spaces                                           | 20 min |
 
 
 </br>

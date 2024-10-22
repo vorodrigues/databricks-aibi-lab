@@ -70,7 +70,7 @@ gráfico de linhas do valor de fechamento por dia e por empresa
 <img src="https://raw.githubusercontent.com/Databricks-BR/genie_ai_bi/main/images/lab2_05.png" width="800px">
 </br></br></br>
 
-## Exercício 02.03 - Adicionando um FILTRO de página
+## Exercício 02.03 - Adicionando um filtro de página
 
 Organize novamente o layout do Painel, </br>
 colocando o novo gráfico alinhado com o gráfico de "Volumes".</br>
@@ -81,7 +81,7 @@ Escolha o atributo (Field):  "**company**"
 </br></br></br>
 
 
-## Exercício 02.04 - Alterando o título do painel por uma imagem
+## Exercício 02.04 - Adicionando uma imagem ao painel
 
 No box de texto do títudo do painel, apague o texto anterior, </br>
 e substitua pelo código (markdown) abaixo: </br>
@@ -104,7 +104,7 @@ Clique no botão "**Publish**" para publicar o Painel.
 </br></br></br>
 
 
-## Exercício 02.05 - Criando um NOVO contexto de dados
+## (Opcional) Exercício 02.05 - Criando um NOVO contexto de dados
 
 Vamos criar agora um novo contexto de dados.</br>
 Para isso, entre na opção "**SQL Editor**" no MENU lateral do Databricks, </br>
@@ -146,7 +146,7 @@ o resultado esperado é o mostrado abaixo:</br>
 <img src="https://raw.githubusercontent.com/Databricks-BR/genie_ai_bi/main/images/lab2_10.png" width="700px">
 </br></br></br>
 
-## Exercício 02.06 - Adicionando o NOVO contexto de dados ao Dashboard
+## (Opcional) Exercício 02.06 - Adicionando o NOVO contexto de dados ao Dashboard
 
 Agora vamos adicionar o novo contexto de dados (calculado na Query);</br>
 como mais uma fonte de dados no Painel.</br>
@@ -185,7 +185,7 @@ E depois clique no botão "**RUN**"
 <img src="https://raw.githubusercontent.com/Databricks-BR/genie_ai_bi/main/images/lab2_12.png" width="700px">
 </br></br></br>
 
-## Exercício 02.07 - Adicionando um novo Gráfico com o contexto novo de dados
+## (Opcional) Exercício 02.07 - Adicionando um novo Gráfico com o contexto novo de dados
 
 Clique no menu azul suspenso na posição inferior do painel, </br>
 no botão com o ícone de gráfico, </br>

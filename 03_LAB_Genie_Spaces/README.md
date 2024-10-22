@@ -109,7 +109,7 @@ Vamos então adicionar chaves primárias e estrangeiras nessas tabelas para que 
 1. Use o SQL Editor para adicionar as chaves primárias e estrangeiras nas tabelas `dim_loja` e `vendas`
 
 ``` sql
-alter table dim_loja alter column cod set not null;
+ALTER TABLE dim_loja ALTER COLUMN cod SET NOT NULL;
 ALTER TABLE dim_loja ADD CONSTRAINT pk_dim_loja PRIMARY KEY (cod);
 ALTER TABLE vendas ADD CONSTRAINT fk_venda_dim_loja FOREIGN KEY (id_loja) REFERENCES dim_loja(cod);
 ```
@@ -147,7 +147,7 @@ Pronto! Agora a Genie já pode responder perguntas sobre prescrições também!
 
 </br></br>
 
-## Exercício 03.06 - Usando exemplos de queries
+## (Opcional) Exercício 03.06 - Usando exemplos de queries
 
 Em alguns casos, precisamos fazer cruzamentos e cálculos bastante complexos para conseguir responder às nossas perguntas e a Genie pode não entender como montar todo o racional necessário.
 
@@ -173,7 +173,7 @@ Notem que agora a Genie conseguiu responder corretamente a nossa pergunta!
 
 </br></br>
 
-## Exercício 03.07 - Usando funções
+## (Opcional) Exercício 03.07 - Usando funções
 
 Outro recurso que podemos utilizar para ajudar a Genie com cálculos complexos são as funções!
 
