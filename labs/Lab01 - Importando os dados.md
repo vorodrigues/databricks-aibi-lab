@@ -22,7 +22,7 @@ CREATE DATABASE IF NOT EXISTS genie_aibi;
 
 ## Exercício 01.02 - Importação dos Arquivos
 
-No Repossitório GITHUB, na pasta de DADOS, clique em cada nome do arquivo de dados (*.CSV), e clique no botão para fazer um download local do arquivo, conforme figura abaixo:
+No Repossitório GITHUB, na pasta de DADOS, clique em cada nome do arquivo de dados (*.CSV e *.PARQUET), e clique no botão para fazer um download local do arquivo, conforme figura abaixo:
 </br></br>
 <img src="https://raw.githubusercontent.com/Databricks-BR/genie_ai_bi/main/images/lab1_01.png">
 
